@@ -1,0 +1,6 @@
+{
+"host":"localhost",
+"user":"oleksii_1",
+"password":"123qwerty",
+"database":"fly_db"
+}
